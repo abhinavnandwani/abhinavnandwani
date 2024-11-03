@@ -1,4 +1,4 @@
-into neural net-native system on chip architectures
+Into neural net-native system on chip architectures.
 
 <!--
 **abhinavnandwani/abhinavnandwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
