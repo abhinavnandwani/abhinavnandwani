@@ -1,9 +1,6 @@
-A systems architecture-level thinker who leverages deep RTL/hardware knowledge to drive the design of domain-specific accelerators (DSAs). This involves the following 
+RTL/hardware design for domain-specific accelerators (DSAs).
 
-1. Understanding the workload deeply (AI/ML, graphics, healthcare, etc.)
-2. Knowing what parts of it are bottlenecks
-3. Designing hardware that mitigates those bottlenecks
-4. Adhere to performance, memory hierarchy, communication models, and software implications making them implementation guides for teams (RTL, VLSI, verification, compiler)
+
 <!--
 **abhinavnandwani/abhinavnandwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
