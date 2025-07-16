@@ -1,4 +1,4 @@
-RTL/hardware design for domain-specific accelerators (DSAs).
+AI/ML and Hardware
 
 
 <!--
